@@ -30,14 +30,14 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 - **State Management:** React Query / Zustand (Redux if needed)
 - **Hosting:** Vercel (Frontend), Supabase (Backend)
 
-📌 See [Tech Stack Documentation](tech_stack.md) for a detailed breakdown.
+📌 See [Tech Stack Documentation](https://github.com/yourusername/mythic-codex/wiki/Tech-Stack) for a detailed breakdown.
 
 ---
 
 ## 📖 Documentation
-- 📜 **[Roadmap](roadmap.md)** – Feature development plan.
-- 🏛 **[Architecture](architecture.md)** – System design and database structure.
-- ⚙️ **[Tech Stack](tech_stack.md)** – Explanation of chosen technologies.
+- 📜 **[Roadmap](https://github.com/yourusername/mythic-codex/wiki/Roadmap)** – Feature development plan.
+- 🏛 **[Architecture](https://github.com/yourusername/mythic-codex/wiki/Architecture)** – System design and database structure.
+- ⚙️ **[Tech Stack](https://github.com/yourusername/mythic-codex/wiki/Tech-Stack)** – Explanation of chosen technologies.
 
 ---
 
@@ -58,13 +58,12 @@ npm run dev
 ```
 
 ### 📌 Contribution Guidelines
-1. Fork the repo & clone locally.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit changes (`git commit -m "Added feature X"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request!
+- `feature/your-feature-name` → New features.
+- `fix/issue-description` → Bug fixes.
+- `chore/dependency-update` → Dependency updates.
+- `docs/documentation-change` → Documentation updates.
 
-For more details, check **[CONTRIBUTING.md]**
+For more details, check **[Contributing Guide](https://github.com/yourusername/mythic-codex/wiki/Contributing)**
 
 ---
 
@@ -75,5 +74,5 @@ This project is licensed under the **MIT License**
 
 ## ⭐ Stay Connected
 💬 Join our Discord *(if applicable)*  
-📧 Contact us at **mouzakitis.m89@gmail.com**  
+📧 Contact us at **mouzakitis.m89@gmail.com**
 
