@@ -1,6 +1,8 @@
 # Mythic Codex
 
-<img src="https://raw.githubusercontent.com/Michalis89/mythic-codex/develop/assets/Mythic-Codex.webp" width="600px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Michalis89/mythic-codex/develop/assets/Mythic-Codex.webp" width="200px">
+</p>
 
 ## 🏰 What is Mythic Codex?
 
@@ -8,14 +10,18 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 
 ---
 
-![GitHub Issues](https://img.shields.io/github/issues/Michalis89/mythic-codex?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/Michalis89/mythic-codex?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Michalis89/mythic-codex?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Michalis89/mythic-codex?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/Michalis89/mythic-codex?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Michalis89/mythic-codex?style=for-the-badge)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/Michalis89/mythic-codex?style=for-the-badge)
 
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Michalis89/mythic-codex/ci.yml?style=for-the-badge)
+
+![GitHub Issues](https://img.shields.io/github/issues/Michalis89/mythic-codex?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Michalis89/mythic-codex?style=for-the-badge)
 ![GitHub Build](https://img.shields.io/github/workflow/status/Michalis89/mythic-codex/CI?style=for-the-badge)
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/Michalis89/mythic-codex?style=for-the-badge)
+
+![GitHub Forks](https://img.shields.io/github/forks/Michalis89/mythic-codex?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Michalis89/mythic-codex?style=for-the-badge)
 
 ## 🚀 Features
 
@@ -38,11 +44,10 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 ---
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF7E00?style=for-the-badge)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🏗️ Tech Stack
 
@@ -81,9 +86,7 @@ npm install
 npm run dev
 ```
 
-![GitHub Release](https://img.shields.io/github/v/release/Michalis89/mythic-codex?style=for-the-badge)
 ![GitHub Contributors](https://img.shields.io/github/contributors/Michalis89/mythic-codex?style=for-the-badge)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Michalis89/mythic-codex?style=for-the-badge)
 
 ### 📌 Contribution Guidelines
 
@@ -113,5 +116,5 @@ This project is licensed under the **MIT License**
 ## ⭐ Stay Connected
 
 [![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dKPzkSBmQs)
-<br/>
-✉️ Contact us at **[mouzakitis.m89@gmail.com](mailto:mouzakitis.m89@gmail.com)**
+
+[![Email](https://img.shields.io/badge/Email-Contact_us-blue?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:[mouzakitis.m89@gmail.com](mailto:mouzakitis.m89@gmail.com)>)
