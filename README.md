@@ -1,6 +1,7 @@
 # Mythic Codex
 
 ![Mythic Codex](assets/Mythic-Codex.webp)
+<img src="https://raw.githubusercontent.com/Michalis89/mythic-codex/develop/assets/Mythic-Codex.webp" width="600px">
 
 ## 🏰 What is Mythic Codex?
 
@@ -28,6 +29,10 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 
 ---
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF7E00?style=for-the-badge)
+
 ## 🏗️ Tech Stack
 
 - **Frontend:** Next.js, Zustand, Tailwind CSS
@@ -41,8 +46,8 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 
 ## 📖 Documentation
 
-- 🏛 **[Architecture](https://github.com/yourusername/mythic-codex/wiki/Architecture)** – System design and database structure.
 - 📜 **[Roadmap](https://github.com/yourusername/mythic-codex/wiki/Roadmap)** – Feature development plan.
+- 🏛 **[Architecture](https://github.com/yourusername/mythic-codex/wiki/Architecture)** – System design and database structure.
 - ⚙️ **[Tech Stack](https://github.com/yourusername/mythic-codex/wiki/Tech-Stack)** – Explanation of chosen technologies.
 
 ---
@@ -72,6 +77,12 @@ npm run dev
 - `chore/dependency-update` → Dependency updates.
 - `docs/documentation-change` → Documentation updates.
 
+1. Fork the repo & clone locally.
+2. Create a new branch for your feature (`git checkout -b feature-name`).
+3. Commit changes (`git commit -m "Added feature X"`).
+4. Push to your branch (`git push origin feature-name`).
+5. Open a pull request!
+
 For more details, check **[Contributing Guide](https://github.com/yourusername/mythic-codex/wiki/Contributing)**
 
 ---
@@ -84,5 +95,5 @@ This project is licensed under the **MIT License**
 
 ## ⭐ Stay Connected
 
-💬 Join our **[Discord](https://discord.gg/dKPzkSBmQs)**
-📧 Contact us at **mouzakitis.m89@gmail.com**
+[![Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dKPzkSBmQs)
+✉️ Contact us at **[mouzakitis.m89@gmail.com](mailto:mouzakitis.m89@gmail.com)**
