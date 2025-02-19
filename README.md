@@ -64,24 +64,16 @@ npm run dev
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request!
 
-For more details, check **[CONTRIBUTING.md]** *(if applicable)*.
+For more details, check **[CONTRIBUTING.md]**
 
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** *(or specify your chosen license)*.
+This project is licensed under the **MIT License**
 
 ---
 
 ## ⭐ Stay Connected
 💬 Join our Discord *(if applicable)*  
-📢 Follow updates on Twitter *(if applicable)*  
-📧 Contact us at **your@email.com**  
-
----
-
-🔗 **Related Documentation:**
-- [Roadmap.md](roadmap.md) - Development phases & features.
-- [Tech_Stack.md](tech_stack.md) - Technology choices & reasoning.
-- [Architecture.md](architecture.md) - System structure & database schema.
+📧 Contact us at **mouzakitis.m89@gmail.com**  
 
