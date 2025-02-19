@@ -1,14 +1,17 @@
 # Mythic Codex
 
-![Mythic Codex](https://your-image-url.com) *(Optional Banner Image)*
+![Mythic Codex](assets/Mythic-Codex.webp)
 
 ## 🏰 What is Mythic Codex?
+
 Mythic Codex is a **D&D character builder and campaign management tool** designed for **players and Dungeon Masters**. It provides a digital character sheet, party and quest tracking, and tools for managing combat encounters.
 
 ---
 
 ## 🚀 Features
+
 ### ✅ **MVP (Initial Release)**
+
 - 🎭 **Character Builder** – Fully editable D&D character sheet.
 - 🎲 **Ability Score Management** – Point Buy, Standard Array, Rolling.
 - 🛡 **Combat Stats** – AC, HP, Initiative, Death Saves.
@@ -17,6 +20,7 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 - 💾 **Save & Load Characters** – Persistent data storage.
 
 ### 🔮 **Planned Expansions**
+
 - 🏹 **Party & Campaign Management** – Party tracking, quest logs, NPC management.
 - ⚔️ **Combat & Initiative Tracker** – Real-time battle tracking for DMs.
 - 🌍 **Worldbuilding & Factions** – DM tools for world creation.
@@ -25,6 +29,7 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 ---
 
 ## 🏗️ Tech Stack
+
 - **Frontend:** Next.js, Zustand, Tailwind CSS
 - **Backend:** Supabase (PostgreSQL, Authentication, API)
 - **State Management:** React Query / Zustand (Redux if needed)
@@ -35,14 +40,17 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 ---
 
 ## 📖 Documentation
-- 📜 **[Roadmap](https://github.com/yourusername/mythic-codex/wiki/Roadmap)** – Feature development plan.
+
 - 🏛 **[Architecture](https://github.com/yourusername/mythic-codex/wiki/Architecture)** – System design and database structure.
+- 📜 **[Roadmap](https://github.com/yourusername/mythic-codex/wiki/Roadmap)** – Feature development plan.
 - ⚙️ **[Tech Stack](https://github.com/yourusername/mythic-codex/wiki/Tech-Stack)** – Explanation of chosen technologies.
 
 ---
 
 ## 🛠 Development
+
 ### 📌 How to Run the Project Locally
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/mythic-codex.git
@@ -58,6 +66,7 @@ npm run dev
 ```
 
 ### 📌 Contribution Guidelines
+
 - `feature/your-feature-name` → New features.
 - `fix/issue-description` → Bug fixes.
 - `chore/dependency-update` → Dependency updates.
@@ -68,11 +77,12 @@ For more details, check **[Contributing Guide](https://github.com/yourusername/m
 ---
 
 ## 📜 License
+
 This project is licensed under the **MIT License**
 
 ---
 
 ## ⭐ Stay Connected
-💬 Join our Discord *(if applicable)*  
-📧 Contact us at **mouzakitis.m89@gmail.com**
 
+💬 Join our **[Discord](https://discord.gg/dKPzkSBmQs)**
+📧 Contact us at **mouzakitis.m89@gmail.com**
