@@ -14,7 +14,7 @@ Mythic Codex is a **D&D character builder and campaign management tool** designe
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Michalis89/mythic-codex?style=for-the-badge)
 ![GitHub Code Size](https://img.shields.io/github/languages/code-size/Michalis89/mythic-codex?style=for-the-badge)
 
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Michalis89/mythic-codex/ci.yml?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Michalis89/mythic-codex/ci.yml?branch=develop&style=for-the-badge)
 
 ![GitHub Issues](https://img.shields.io/github/issues/Michalis89/mythic-codex?style=for-the-badge)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Michalis89/mythic-codex?style=for-the-badge)
