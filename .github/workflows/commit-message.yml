@@ -1,0 +1,21 @@
+name: 'Enforce Commit Message Rules'
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+
+jobs:
+  check-commit-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Validate Commit Messages
+        run: |
+          if git log --format=%s -n 1 | grep -Eqv "^(feat|fix|chore|docs|refactor|test|ci|build): .+"; then
+            echo "❌ Commit message does not follow the convention!"
+            exit 1
+          fi

@@ -1,0 +1,47 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  check-code:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Check if repo contains code
+        id: check_code
+        run: |
+          if [ -z "$(ls -A .)" ]; then
+            echo "Repository is empty. Skipping CI pipeline."
+            exit 78 # This exits without failing the workflow
+          fi
+
+  build-and-test:
+    needs: check-code
+    if: success()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Linter
+        run: npm run lint
+
+      - name: Run Tests
+        run: npm run test
+
+      - name: Build Project
+        run: npm run build
