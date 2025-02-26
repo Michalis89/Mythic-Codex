@@ -11,23 +11,7 @@ on:
       - develop
 
 jobs:
-  check-code:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Check if repo contains code
-        id: check_code
-        run: |
-          if [ -z "$(ls -A .)" ]; then
-            echo "Repository is empty. Skipping CI pipeline."
-            exit 78 # This exits without failing the workflow
-          fi
-
   build-and-test:
-    needs: check-code
-    if: success()
     runs-on: ubuntu-latest
 
     steps:
